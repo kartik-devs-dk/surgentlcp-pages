@@ -2,8 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.surgentlcp.com/</loc>
-    <lastmod>2026-07-28</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>1.0</priority>
+    <lastmod>2026-07-30</lastmod>
+  </url>
+  <url>
+    <loc>https://www.surgentlcp.com/about/</loc>
+    <lastmod>2026-07-30</lastmod>
+  </url>
+  <url>
+    <loc>https://www.surgentlcp.com/services/</loc>
+    <lastmod>2026-07-30</lastmod>
+  </url>
+  <url>
+    <loc>https://www.surgentlcp.com/request-a-plan/</loc>
+    <lastmod>2026-07-30</lastmod>
   </url>
 </urlset>
